@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 9aab3744b4bee03f78b4d301edc98efd13922647
+source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 84%
+source-wordcount: '290'
+ht-degree: 76%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 84%
 Adobe Campaign コントロールパネルを使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の SFTP ストレージの管理や、GPG キーまたはサブドメインと証明書の管理などの管理タスクを実行したりできます。
 
 ## 新機能
+
+* **[ハイブリッドホスティングモデルのCampaign コントロールパネル](/help/control-panel-for-hybrid-hosting-models.md)**
+
+   *Adobe CampaignハイブリッドホスティングモデルのCampaign コントロールパネルを有効にする方法、コントロールパネルにアクセスする方法、主な機能のロックを解除する方法を説明します。*
 
 * **[ワークフローの監視](/help/performance-monitoring/monitor-workflows.md)**
 
