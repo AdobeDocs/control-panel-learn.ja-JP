@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: d12902547ffde67838b326c93162d0937ff438a6
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 62%
+source-wordcount: '277'
+ht-degree: 44%
 
 ---
 
@@ -44,6 +44,18 @@ SSL 証明書を購入するには、証明書署名要求 (CSR) が必要です
 
 *証明書署名要求の生成（2 分 36 秒）*
 
+>[!NOTE]
+>
+>CSR 生成プロセスにいくつかの機能強化が加えられました。
+>
+>* CSR を生成する際に、含まれるサブドメインの 1 つを共通名として選択できるようになりました。
+>* これで、CSR を生成する前に CSR の概要をコピーできます。
+>* CSR が生成されたら、ジョブのログから再度ダウンロードできます。 この機能は、このリリースより前に生成された証明書には適用されません。
+>
+>![CSR をダウンロード](/help/assets/download-csr.gif)
+>
+>詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) を参照してください。
+
 ### 2. SSL 証明書の購入
 
 CSR を取得したら、組織の承認を得た認証局から SSL 証明書を購入する必要があります。
@@ -57,3 +69,5 @@ SSL 証明書を取得したら、保護しようとしているサブドメイ�
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
 *SSL 証明書のインストール（1 分 25 秒）*
+
+
