@@ -7,9 +7,9 @@ feature: Control Panel
 role: Admin
 level: Experienced
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -18,10 +18,10 @@ ht-degree: 81%
 
 + [コントロールパネル](/help/control-panel-overview.md)
 + [コントロールパネルの概要](/help/get-started-with-control-panel.md)
-+ [ハイブリッドホスティングモデルのCampaign コントロールパネル](/help/control-panel-for-hybrid-hosting-models.md)
++ [ハイブリッドホスティングモデルのコントロールパネル](/help/control-panel-for-hybrid-hosting-models.md)
 + SFTP 管理 {#sftp-management}
    + [サーバー容量の監視](/help/sftp-management/monitor-server-capacity.md)
-   + [許可リスト IP 範囲の](/help/sftp-management/allowlist-ip-range.md)
+   + [許可リストの IP 範囲](/help/sftp-management/allowlist-ip-range.md)
    + [SSH キーの生成](/help/sftp-management/generate-ssh-key.md)
    + [SFTP サーバーへの接続](/help/sftp-management/connect-to-sftp-server.md)
 + サブドメインと証明書 {#subdomains-and-certificates}
@@ -30,7 +30,7 @@ ht-degree: 81%
    + [SSL 証明書を追加](/help/subdomains-and-certificates/add-ssl-certificates.md)
    + [Google TXT レコード管理](/help/subdomains-and-certificates/google-txt-record-management.md)
 + インスタンス設定{#instance-settings}
-   + [許可リストIP アドレス](/help/instance-settings/allowlist-ip-adresses.md)
+   + [許可リストの IP アドレス](/help/instance-settings/allowlist-ip-adresses.md)
    + [URL 権限の追加](/help/instance-settings/add-url-permissions.md)
    + GPG キー管理 {#gpg-key-management}
       + [GPG キー管理 - 概要](/help/instance-settings/gpg-key-management/gpg-key-management-overview.md)
@@ -40,5 +40,5 @@ ht-degree: 81%
 + パフォーマンス監視 {#performance-monitoring}
    + [データベースの監視](/help/performance-monitoring/monitor-databases.md)
    + [ワークフローの監視](/help/performance-monitoring/monitor-workflows.md)
-   + [スループットと遅延の監視](/help/performance-monitoring/monitor-throughputs-and-latency.md)
-+ [トラブルシューティングCampaign コントロールパネル](/help/trouble-shooting.md)
+   + [スループットと待ち時間を監視](/help/performance-monitoring/monitor-throughputs-and-latency.md)
++ [Campaign コントロールパネルのトラブルシューティング](/help/trouble-shooting.md)
