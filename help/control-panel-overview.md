@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '290'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -22,17 +22,17 @@ Adobe Campaign コントロールパネルを使用すると、Adobe Campaign �
 
 ## 新機能
 
-* **[ハイブリッドホスティングモデルのCampaign コントロールパネル](/help/control-panel-for-hybrid-hosting-models.md)**
+* **[ハイブリッドホスティングモデルのコントロールパネル](/help/control-panel-for-hybrid-hosting-models.md)**
 
-   *Adobe CampaignハイブリッドホスティングモデルのCampaign コントロールパネルを有効にする方法、コントロールパネルにアクセスする方法、主な機能のロックを解除する方法を説明します。*
+   *Adobe Campaign ハイブリッドホスティングモデルのコントロールパネルを有効にする方法、コントロールパネルにアクセスする方法、主な機能のロックを解除する方法を説明します。*
 
 * **[ワークフローの監視](/help/performance-monitoring/monitor-workflows.md)**
 
    *ワークフローの一時的なストレージ使用状況を監視する方法、およびインスタンスでのデータベースやワークフローの問題を回避するためのワークフロー設定の場所について説明します。*
 
-* **[スループットと遅延の監視](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
+* **[スループットと待ち時間の監視](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
 
-   *キャンペーンインスタンスの配信スループットとトランザクションメッセージの待ち時間を監視する方法について説明します。*
+   *Campaign インスタンスの配信スループットとトランザクションメッセージの待ち時間を監視する方法について説明します。*
 
 最新の製品リリースについて詳しくは、[リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=ja)を参照してください。
 
