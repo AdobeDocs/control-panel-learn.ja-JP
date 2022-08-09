@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: 3d4a302922a59bce1353ec5a68ad4a977a1e3ceb
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 87%
 
 ---
 
@@ -37,4 +37,4 @@ Adobe [!UICONTROL Campaign コントロールパネル]を使用すると、サ�
 
 *サブドメインのデリゲート（5 分 7 秒）*
 
-サブドメインの SSL 証明書の更新について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=ja)を参照してください。
+サブドメインの SSL 証明書の更新について詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=ja).
