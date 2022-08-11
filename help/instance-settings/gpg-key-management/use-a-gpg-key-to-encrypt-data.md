@@ -11,20 +11,20 @@ role: Admin
 level: Experienced
 exl-id: 8b2ff6b2-6836-4ab1-953b-2a9c81ec576d
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
 # GPG キーを使用したデータの暗号化
 
-Campaign コントロールパネルにインストールされた GPG キーを使用してデータをエクスポートする方法を説明します
+コントロールパネルにインストールされている GPG キーを使用してデータを書き出す方法を説明します
 
 ## Adobe Campaign Standard
 
 >[!VIDEO](https://video.tv.adobe.com/v/36380?quality=12)
 
-## Adobe Campaign V7/V8
+## Adobe Campaign V7／V8
 
 >[!VIDEO](https://video.tv.adobe.com/v/36399?quality=12)
