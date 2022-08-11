@@ -10,7 +10,7 @@ role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '290'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ Adobe Campaign コントロールパネルを使用すると、Adobe Campaign �
 
 * **[スループットと待ち時間の監視](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
 
-   *Campaign インスタンスの配信スループットとトランザクションメッセージの待ち時間を監視する方法について説明します。*
+   *Campaign インスタンスの配信スループットとトランザクションメッセージの待ち時間の監視方法について説明します。*
 
 最新の製品リリースについて詳しくは、[リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=ja)を参照してください。
 
