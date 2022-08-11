@@ -12,18 +12,18 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '218'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
-# の基本を学ぶ [!UICONTROL Campaign コントロールパネル] {#control-panel}
+# [!UICONTROL コントロールパネル]の概要 {#control-panel}
 
 >[!CAUTION]
-> Campaign v7 の場合は、デプロイメントに制限があります。[詳細情報](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=en#v7-restrictions)
+> Campaign v7 の場合は、デプロイメントに制限があります。[詳細情報](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=ja#v7-restrictions)
 
-[!UICONTROL Campaign コントロールパネル] Adobe Campaign管理者は、主要なアセットを監視し、管理タスク ( [!DNL SFTP] インスタンス別のストレージ、管理 [!DNL GPG] キーまたは [!UICONTROL サブドメイン] および [!UICONTROL 証明書].
+[!UICONTROL コントロールパネル]を使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の [!DNL SFTP] ストレージの管理や、[!DNL GPG] キーまたは[!UICONTROL サブドメイン]と[!UICONTROL 証明書]の管理などの管理タスクを実行したりできます。
 
 この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。
 
@@ -57,6 +57,6 @@ ht-degree: 74%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-[詳細情報](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=ja#discover-control-panel) 権限の管理について
+権限の管理について詳しくは、[詳細情報](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=ja#discover-control-panel)を参照してください。
 
-詳しくは、 [Campaign コントロールパネルヘルプセンター](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja) を参照してください。
+その他のリソースについては、[コントロールパネルヘルプセンター](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja)を参照してください。
