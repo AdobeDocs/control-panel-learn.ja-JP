@@ -3,11 +3,12 @@ user-guide-title: Adobe Campaign コントロールパネルのチュートリ�
 user-guide-description: コントロールパネルで Adobe Campaign インスタンスの主要なアセットを監視したり、管理タスクを実行したりする方法を説明します。
 breadcrumb-title: Campaign コントロールパネルのチュートリアル
 index: true
+feature-set: Campaign
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: ht
+source-git-commit: 647cdf9197bc0420837434f24d475bd4aa065dda
+workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 100%
 
