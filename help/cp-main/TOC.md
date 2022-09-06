@@ -7,15 +7,15 @@ feature-set: Campaign
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: 647cdf9197bc0420837434f24d475bd4aa065dda
+source-git-commit: 8844dcdb67c0ec1f27a677edbca88bc4b2d0ee97
 workflow-type: ht
-source-wordcount: '122'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
 
 
-# Adobe Campaign コントロールパネル - チュートリアル {#control-panel}
+# Adobe Campaign コントロールパネル - チュートリアル {#tutorials}
 
 + [コントロールパネル](/help/control-panel-overview.md)
 + [コントロールパネルの概要](/help/get-started-with-control-panel.md)
