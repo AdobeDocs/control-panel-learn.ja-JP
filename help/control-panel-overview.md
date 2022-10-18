@@ -9,9 +9,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
-source-wordcount: '290'
+source-git-commit: f6eefe5c95532c38d32275070416b960b208ad10
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -19,6 +19,8 @@ ht-degree: 100%
 # Campaign コントロールパネル - 概要
 
 Adobe Campaign コントロールパネルを使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の SFTP ストレージの管理や、GPG キーまたはサブドメインと証明書の管理などの管理タスクを実行したりできます。
+
+<div id="whats-new-section">
 
 ## 新機能
 
@@ -35,6 +37,17 @@ Adobe Campaign コントロールパネルを使用すると、Adobe Campaign �
    *Campaign インスタンスの配信スループットとトランザクションメッセージの待ち時間の監視方法について説明します。*
 
 最新の製品リリースについて詳しくは、[リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=ja)を参照してください。
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## アドビのお勧め
 
@@ -81,6 +94,8 @@ Adobe Campaign コントロールパネルを使用すると、Adobe Campaign �
   </td>
 </tr>
 </table>
+
+</div>
 
 ## その他のリソース
 
