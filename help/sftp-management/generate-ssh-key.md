@@ -2,7 +2,7 @@
 title: SSH キーの生成
 description: ターミナルを使って SSH キーを生成する方法と、公開バージョンのキーをコントロールパネルに保存する方法について説明します。
 feature: Control Panel
-kt: 6348
+kt: 2923
 thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
@@ -10,8 +10,8 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6cb4990b-448b-4a3b-8ff0-9f2fcb53ff5d
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
+source-git-commit: 711d473b765dd9c9380f43af5c9bcadf56e9f2b7
+workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
 
