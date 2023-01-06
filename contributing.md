@@ -1,8 +1,8 @@
 ---
-source-git-commit: d8b509413bfaac9b37b2a65e6dbac55927577cc0
+source-git-commit: 9f67076f9a0a988ac5c37dd6f0dd9a600012cd78
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 24%
+source-wordcount: '294'
+ht-degree: 22%
 
 ---
 # 貢献
@@ -18,7 +18,7 @@ ht-degree: 24%
 
 ## 寄稿者ガイドドキュメント
 
-詳しくは、 [寄稿者ガイド](https://docs.adobe.com/content/help/ja/contributor/contributor-guide/introduction.html).
+詳しくは、 [寄稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## 質問がある場合
 
