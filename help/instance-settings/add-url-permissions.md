@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 86cdb284-a5a7-4ad4-a1dc-d203f75be948
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: 6909a356117e76798fd31ab721ffbd116ea2af68
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 100%
+ht-degree: 85%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
 
-詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/url-permissions.html?lang=ja)を参照してください。
+詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html)を参照してください。
