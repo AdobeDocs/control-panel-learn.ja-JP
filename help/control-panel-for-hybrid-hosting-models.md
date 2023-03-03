@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
-source-git-commit: 2ae9b94ed0fe87fa2919b9a051e0ef4a80a1566b
+source-git-commit: 35a8f11609a0634801aa3925eaf14d32858b3c02
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '64'
+ht-degree: 89%
 
 ---
 
@@ -23,4 +23,4 @@ Adobe Campaign ハイブリッドホスティングモデルのコントロー�
 
 >[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12)
 
-詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/external-accounts.html?lang=ja)を参照してください。
+詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html)を参照してください。

@@ -25,7 +25,7 @@ ht-degree: 100%
 
 [!UICONTROL コントロールパネル]を使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の [!DNL SFTP] ストレージの管理や、[!DNL GPG] キーまたは[!UICONTROL サブドメイン]と[!UICONTROL 証明書]の管理などの管理タスクを実行したりできます。
 
-この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。
+この記事では、コントロールパネルにアクセスする方法と、コントロールパネルを使用するための前提条件を説明します。
 
 ## [!UICONTROL コントロールパネル]へのアクセス
 
@@ -34,7 +34,7 @@ ht-degree: 100%
 * **[!UICONTROL Experience Cloud ホーム]**／**[!UICONTROL クイックアクセス]**
 
    または
-* **[!UICONTROL Experience Cloud ホーム]**／[!UICONTROL ソリューション選択]：**Campaign**／**[!UICONTROL Campaign コントロールパネル]カード**
+* **[!UICONTROL Experience Cloud ホーム]**／[!UICONTROL ソリューション選択]：**Campaign**／**[!UICONTROL コントロールパネル]カード**
 
    または
 
@@ -52,7 +52,7 @@ ht-degree: 100%
 
 ### 管理者権限
 
-[!UICONTROL Campaign コントロールパネル]にアクセスするには、管理者権限が必要です。
+[!UICONTROL コントロールパネル]にアクセスするには、管理者権限が必要です。
 次のビデオでは、Campaign インスタンスに管理者を追加する方法を説明しています
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)

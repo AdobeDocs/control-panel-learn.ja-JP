@@ -19,11 +19,11 @@ ht-degree: 100%
 
 # SFTP サーバーへの接続
 
-## Campaign コントロールパネルの SFTP 管理へのアクセス
+## コントロールパネルの SFTP 管理へのアクセス
 
-Campaign コントロールパネルで SFTP 管理にアクセスするには、次の場所に移動します。
+コントロールパネルで SFTP 管理にアクセスするには、次の場所に移動します。
 
-* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／ソリューション選択：**[!DNL Campaign]**／**Campaign コントロールパネル**&#x200B;カード／**SFTP** カード
+* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／ソリューション選択：**[!DNL Campaign]**／**コントロールパネル**&#x200B;カード／**SFTP** カード
 
    または
 * URL（[http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)）で直接移動

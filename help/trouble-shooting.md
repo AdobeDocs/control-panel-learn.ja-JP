@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ---
 
-# [!UICONTROL Campaign コントロールパネル]のトラブルシューティング
+# [!UICONTROL コントロールパネル]のトラブルシューティング
 
 ## ログインとホームページ
 
@@ -44,12 +44,12 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*製品プロファイル「Administrators」に管理者を追加して [!UICONTROL Campaign コントロールパネル]を使用できるようにする方法（1 分 3 秒）*
+*製品プロファイル「Administrators」に管理者を追加して [!UICONTROL コントロールパネル]を使用できるようにする方法（1 分 3 秒）*
 
 ### 参考になるドキュメント
 
 * [コントロールパネルの理解](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja)
-* [[!UICONTROL Campaign コントロールパネル]に対する権限の管理](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [[!UICONTROL コントロールパネル]に対する権限の管理](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja)
 
 ## SFTP サーバーへの接続の確立（クライアントまたは API）
 
@@ -61,4 +61,4 @@ SFTP サーバーに接続するには、以下が必要です。
 
 ### 参考になるドキュメント {#helpful-docs}
 
-* [SFTP サーバーへのログイン](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [SFTP サーバーへのログイン](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja)

@@ -24,11 +24,11 @@ ht-degree: 100%
 * この IP アドレスから [!DNL Campaign] インスタンスにアクセスできるようにする
 * API を Message Center またはマーケティングインスタンスに接続する
 
-## Campaign コントロールパネルのインスタンス設定へのアクセス
+## コントロールパネルのインスタンス設定へのアクセス
 
-Campaign コントロールパネルのサブドメイン管理にアクセスするには、以下に移動します。
+コントロールパネルのサブドメイン管理にアクセスするには、以下に移動します。
 
-* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／ソリューション選択：**[!DNL Campaign]**／**[!UICONTROL Campaign コントロールパネル]**&#x200B;カード／**インスタンス設定**カード
+* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／ソリューション選択：**[!DNL Campaign]**／**[!UICONTROL コントロールパネル]**&#x200B;カード／**インスタンス設定**カード
 または
 * URL（[https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)）で直接移動
 

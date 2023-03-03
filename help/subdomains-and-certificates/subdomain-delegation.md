@@ -19,13 +19,13 @@ ht-degree: 87%
 
 # 完全なサブドメインデリゲーション
 
-Adobe [!UICONTROL Campaign コントロールパネル]を使用すると、サブドメインを Adobe Campaign に完全にデリゲートできます。
+Adobe [!UICONTROL コントロールパネル]を使用すると、サブドメインを Adobe Campaign に完全にデリゲートできます。
 
-## [!UICONTROL Campaign コントロールパネル]のサブドメイン管理へのアクセス
+## [!UICONTROL コントロールパネル]のサブドメイン管理へのアクセス
 
-[!UICONTROL Campaign コントロールパネル]のサブドメイン管理にアクセスするには、以下に移動します。
+[!UICONTROL コントロールパネル]のサブドメイン管理にアクセスするには、以下に移動します。
 
-* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／ソリューション選択：**[!DNL Campaign]**／**[!UICONTROL Campaign コントロールパネル]**&#x200B;カード／**サブドメインおよび証明書**カード
+* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／ソリューション選択：**[!DNL Campaign]**／**[!UICONTROL コントロールパネル]**&#x200B;カード／**サブドメインおよび証明書**カード
 または
 * URL（[https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)）で直接移動
 

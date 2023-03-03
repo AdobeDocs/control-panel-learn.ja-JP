@@ -11,21 +11,21 @@ role: Admin
 level: Experienced
 exl-id: 6cb4990b-448b-4a3b-8ff0-9f2fcb53ff5d
 source-git-commit: 711d473b765dd9c9380f43af5c9bcadf56e9f2b7
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
 
 # SSH キーの生成
 
-SSH キーを Campaign コントロールパネルに追加するには、SSH キーを生成できる必要があります。
+SSH キーを コントロールパネルに追加するには、SSH キーを生成できる必要があります。
 
-## Campaign コントロールパネルの SFTP 管理へのアクセス
+## コントロールパネルの SFTP 管理へのアクセス
 
-Campaign コントロールパネルで SFTP 管理にアクセスするには、次の場所に移動します。
+コントロールパネルで SFTP 管理にアクセスするには、次の場所に移動します。
 
-* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／ソリューション選択：**[!DNL Campaign]**／**Campaign コントロールパネル**&#x200B;カード／**SFTP** カード
+* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／ソリューション選択：**[!DNL Campaign]**／**コントロールパネル**&#x200B;カード／**SFTP** カード
 
    または
 * URL（[http://experience.adobe.com/#/controlpanel/sftp](https://experience.adobe.com/)）で直接移動

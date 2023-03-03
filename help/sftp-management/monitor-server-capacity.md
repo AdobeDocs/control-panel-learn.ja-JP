@@ -20,13 +20,13 @@ ht-degree: 100%
 
 # サーバー容量の監視
 
-Campaign コントロールパネルでは、インスタンスごとに SFTP ストレージを監視および管理できます。
+コントロールパネルでは、インスタンスごとに SFTP ストレージを監視および管理できます。
 
-## [!UICONTROL Campaign コントロールパネル]のサブドメイン管理へのアクセス
+## [!UICONTROL コントロールパネル]のサブドメイン管理へのアクセス
 
-[!UICONTROL Campaign コントロールパネル]のサブドメイン管理にアクセスするには、以下に移動します。
+[!UICONTROL コントロールパネル]のサブドメイン管理にアクセスするには、以下に移動します。
 
-* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／[!UICONTROL ソリューション選択]：[!UICONTROL Campaign]／**[!UICONTROL Campaign コントロールパネル]**&#x200B;カード／**[!UICONTROL サブドメインおよび証明書]**&#x200B;カード
+* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／[!UICONTROL ソリューション選択]：[!UICONTROL Campaign]／**[!UICONTROL コントロールパネル]**&#x200B;カード／**[!UICONTROL サブドメインおよび証明書]**&#x200B;カード
 
    または
 * URL（[https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)）で直接移動
