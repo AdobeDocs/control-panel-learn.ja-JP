@@ -11,8 +11,8 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: bb07c575-a4db-4485-aae8-7c249c8d183b
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 
@@ -24,4 +24,4 @@ ht-degree: 100%
 
 許可リストに IP アドレス範囲を追加する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12&learn=0n)
