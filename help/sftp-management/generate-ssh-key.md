@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6cb4990b-448b-4a3b-8ff0-9f2fcb53ff5d
-source-git-commit: 711d473b765dd9c9380f43af5c9bcadf56e9f2b7
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: ht
-source-wordcount: '0'
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
@@ -34,4 +34,4 @@ SSH キーを コントロールパネルに追加するには、SSH キーを�
 
 ターミナルを使って SSH キーを生成する方法と、公開バージョンのキーをコントロールパネルに保存する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12&learn=0n)
