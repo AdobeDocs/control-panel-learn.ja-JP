@@ -9,8 +9,8 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+workflow-type: ht
 source-wordcount: '332'
 ht-degree: 100%
 
@@ -38,11 +38,11 @@ ht-degree: 100%
 
 ### 役立つビデオ
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=0n)
 
 *IMS 組織 ID の確認（26 秒）*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=0n)
 
 *製品プロファイル「Administrators」に管理者を追加して [!UICONTROL コントロールパネル]を使用できるようにする方法（1 分 3 秒）*
 
