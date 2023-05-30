@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
 source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -37,4 +37,4 @@ Adobe [!UICONTROL コントロールパネル]を使用すると、サブドメ�
 
 *サブドメインのデリゲート（5 分 7 秒）*
 
-サブドメインの SSL 証明書の更新について詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=ja).
+サブドメインの SSL 証明書の更新について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=ja)を参照してください。
