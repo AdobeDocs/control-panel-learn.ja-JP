@@ -3,7 +3,7 @@ title: サーバー容量の監視
 description: インスタンスごとに SFTP ストレージを監視および管理し、許可リストに IP アドレスを追加する方法について説明します。
 feature: Control Panel
 audience: administrator
-kt: 3266
+jira: KT-3266
 thumbnail: 27270.jpg
 doc-type: feature video
 activity: use
@@ -11,7 +11,7 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: c4fa20ed-a836-4c69-b3a8-749dc43e6b09
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 * [Experience Cloud ホーム](https://experience.adobe.com/#/home)／[!UICONTROL ソリューション選択]：[!UICONTROL Campaign]／**[!UICONTROL コントロールパネル]**&#x200B;カード／**[!UICONTROL サブドメインおよび証明書]**&#x200B;カード
 
-   または
+  または
 * URL（[https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)）で直接移動
 
 ## サーバー容量を監視、IP アドレスを[!UICONTROL 許可リストに追加]し、SSH キーを追加する
