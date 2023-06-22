@@ -2,7 +2,7 @@
 title: SSH キーの生成
 description: ターミナルを使って SSH キーを生成する方法と、公開バージョンのキーをコントロールパネルに保存する方法について説明します。
 feature: Control Panel
-kt: 2923
+jira: KT-2923
 thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6cb4990b-448b-4a3b-8ff0-9f2fcb53ff5d
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
@@ -27,7 +27,7 @@ SSH キーを コントロールパネルに追加するには、SSH キーを�
 
 * [Experience Cloud ホーム](https://experience.adobe.com/#/home)／ソリューション選択：**[!DNL Campaign]**／**コントロールパネル**&#x200B;カード／**SFTP** カード
 
-   または
+  または
 * URL（[http://experience.adobe.com/#/controlpanel/sftp](https://experience.adobe.com/)）で直接移動
 
 ## SSH キーの生成方法
