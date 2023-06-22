@@ -2,7 +2,7 @@
 title: 許可リストの IP アドレス
 description: コントロールパネルを使用して、Adobe Campaign インスタンスの許可リストに IP の範囲を追加する方法と、許可リストから IP の範囲を削除する方法について説明します。
 feature: Control Panel
-kt: 3479
+jira: KT-3479
 thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '184'
 ht-degree: 100%
