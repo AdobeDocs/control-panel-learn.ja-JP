@@ -2,14 +2,14 @@
 title: コントロールパネルのトラブルシューティング
 description: コントロールパネルのトラブルシューティング方法を学ぶ。
 feature: Control Panel
-kt: 2938
+jira: KT-2938
 doc-type: article
 activity: use
 team: PM
 role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '332'
 ht-degree: 100%
