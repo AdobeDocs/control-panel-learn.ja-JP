@@ -2,7 +2,7 @@
 title: SFTP サーバーへの接続
 description: コントロールパネルで保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。
 feature: Control Panel
-kt: 2924
+jira: KT-2924
 thumbnail: 27263.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6c724a09-5083-4737-ba2c-29e021d16fc9
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '149'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 * [Experience Cloud ホーム](https://experience.adobe.com/#/home)／ソリューション選択：**[!DNL Campaign]**／**コントロールパネル**&#x200B;カード／**SFTP** カード
 
-   または
+  または
 * URL（[http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)）で直接移動
 
 ## SFTP サーバーへの接続方法
