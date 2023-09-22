@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 100%
+source-wordcount: '109'
+ht-degree: 98%
 
 ---
 
@@ -33,7 +33,7 @@ Adobe [!UICONTROL コントロールパネル]を使用すると、サブドメ�
 
 次のビデオでは、サブドメインをデリゲートする方法を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/31390?learn=on){transcript=true}
 
 *サブドメインのデリゲート（5 分 7 秒）*
 

@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 100%
+source-wordcount: '66'
+ht-degree: 96%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Adobe Campaign ハイブリッドホスティングモデルのコントロールパネルを有効にする方法、コントロールパネルにアクセスする方法および主な機能のロックを解除する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/344502?learn=on){transcript=true}
 
 詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html?lang=ja)を参照してください。

@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 51de34f4-5480-459b-b8b6-6637c7bd3b89
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 100%
+source-wordcount: '80'
+ht-degree: 95%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 100%
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/35753?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/35753?learn=on){transcript=true}
 
 ## Adobe Campaign V7／V8
 
->[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/36482?learn=on){transcript=true}
