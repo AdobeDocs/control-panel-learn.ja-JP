@@ -11,7 +11,7 @@ role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: 1e3ad983e8879252715ad4616c5541154db8eb2b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 100%
 
@@ -26,16 +26,13 @@ Adobe Campaign コントロールパネルを使用すると、Adobe Campaign �
 ## 新機能
 
 * **[ハイブリッドホスティングモデルのコントロールパネル](/help/control-panel-for-hybrid-hosting-models.md)**
-
-   *Adobe Campaign ハイブリッドホスティングモデルのコントロールパネルを有効にする方法、コントロールパネルにアクセスする方法、主な機能のロックを解除する方法を説明します。*
+  *Adobe Campaign ハイブリッドホスティングモデルのコントロールパネルを有効にする方法、コントロールパネルにアクセスする方法、主な機能のロックを解除する方法を説明します。*
 
 * **[ワークフローの監視](/help/performance-monitoring/monitor-workflows.md)**
-
-   *ワークフローの一時的なストレージ使用状況を監視する方法、およびインスタンスでのデータベースやワークフローの問題を回避するためのワークフロー設定の場所について説明します。*
+  *ワークフローの一時的なストレージ使用状況を監視する方法、およびインスタンスでのデータベースやワークフローの問題を回避するためのワークフロー設定の場所について説明します。*
 
 * **[スループットと待ち時間の監視](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
-
-   *Campaign インスタンスの配信スループットとトランザクションメッセージの待ち時間の監視方法について説明します。*
+  *Campaign インスタンスの配信スループットとトランザクションメッセージの待ち時間の監視方法について説明します。*
 
 最新の製品リリースについて詳しくは、[リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=ja)を参照してください。
 
@@ -77,7 +74,7 @@ Adobe Campaign コントロールパネルを使用すると、Adobe Campaign �
     </a>
     </div>
     <p>
-    <em>Campaign コントロールパネルで、Gmail アドレス宛ての E メール送信に使用するすべてのサブドメインに Google TXT サイト検証レコードを追加する方法を説明します。</em>
+    <em>Campaign コントロールパネルで、Gmail アドレス宛てのメール送信に使用するすべてのサブドメインに Google TXT サイト検証レコードを追加する方法を説明します。</em>
     <p>
   </td>
   <td>
