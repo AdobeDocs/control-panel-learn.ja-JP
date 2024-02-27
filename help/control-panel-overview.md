@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 1e3ad983e8879252715ad4616c5541154db8eb2b
+source-git-commit: 769e31eccbfd543345fc43a5615fa7dbab134e21
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '219'
 ht-degree: 100%
 
 ---
@@ -20,23 +20,6 @@ ht-degree: 100%
 # コントロールパネル - 概要
 
 Adobe Campaign コントロールパネルを使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の SFTP ストレージの管理や、GPG キーまたはサブドメインと証明書の管理などの管理タスクを実行したりできます。
-
-<div id="whats-new-section">
-
-## 新機能
-
-* **[ハイブリッドホスティングモデルのコントロールパネル](/help/control-panel-for-hybrid-hosting-models.md)**
-  *Adobe Campaign ハイブリッドホスティングモデルのコントロールパネルを有効にする方法、コントロールパネルにアクセスする方法、主な機能のロックを解除する方法を説明します。*
-
-* **[ワークフローの監視](/help/performance-monitoring/monitor-workflows.md)**
-  *ワークフローの一時的なストレージ使用状況を監視する方法、およびインスタンスでのデータベースやワークフローの問題を回避するためのワークフロー設定の場所について説明します。*
-
-* **[スループットと待ち時間の監視](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
-  *Campaign インスタンスの配信スループットとトランザクションメッセージの待ち時間の監視方法について説明します。*
-
-最新の製品リリースについて詳しくは、[リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=ja)を参照してください。
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
