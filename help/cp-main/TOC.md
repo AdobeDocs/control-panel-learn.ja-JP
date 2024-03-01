@@ -1,5 +1,5 @@
 ---
-user-guide-title: Adobe Campaign コントロールパネルのチュートリアル
+user-guide-title: Adobe CampaignCampaign コントロールパネルチュートリアル
 user-guide-description: コントロールパネルで Adobe Campaign インスタンスの主要なアセットを監視したり、管理タスクを実行したりする方法を説明します。
 breadcrumb-title: コントロールパネルのチュートリアル
 index: true
@@ -8,17 +8,17 @@ feature: Control Panel
 role: Admin
 level: Experienced
 auto-video-transcripts: true
-source-git-commit: d2b06b5280e0bd24e3730f70857831836efca03b
+source-git-commit: 5aa8487852e7b578dc23186a93c9b73890cdafad
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 100%
+source-wordcount: '123'
+ht-degree: 89%
 
 ---
 
 
-# Adobe Campaign コントロールパネル - チュートリアル {#tutorials}
+# Adobe CampaignCampaign コントロールパネルチュートリアル {#tutorials}
 
-+ [コントロールパネル](/help/control-panel-overview.md)
++ [Campaign コントロールパネルチュートリアル](/help/control-panel-overview.md)
 + [コントロールパネルの概要](/help/get-started-with-control-panel.md)
 + [ハイブリッドホスティングモデルのコントロールパネル](/help/control-panel-for-hybrid-hosting-models.md)
 + SFTP 管理 {#sftp-management}
