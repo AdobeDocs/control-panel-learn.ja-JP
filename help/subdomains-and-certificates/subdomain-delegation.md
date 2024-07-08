@@ -12,9 +12,9 @@ role: Admin
 level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
 source-git-commit: b1f8f620ed5f9f5a0ee2165041a036728943fc84
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,8 @@ Adobe [!UICONTROL コントロールパネル]を使用すると、サブドメ�
 
 [!UICONTROL コントロールパネル]のサブドメイン管理にアクセスするには、以下に移動します。
 
-* [Experience Cloudホーム](https://experience.adobe.com/#/home) /ソリューション選択： **[!DNL Campaign]** > **[!UICONTROL Campaign コントロールパネル]** カード > **サブドメインおよび証明書** カードまたは
+* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／ソリューション選択：**[!DNL Campaign]**／**[!UICONTROL コントロールパネル]**&#x200B;カード／**サブドメインと証明書**カード
+または
 * URL（[https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)）で直接移動
 
 ## サブドメインのデリゲート方法
