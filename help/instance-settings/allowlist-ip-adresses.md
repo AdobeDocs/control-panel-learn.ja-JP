@@ -12,8 +12,8 @@ level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 100%
+source-wordcount: '172'
+ht-degree: 93%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 コントロールパネルのサブドメイン管理にアクセスするには、以下に移動します。
 
-* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／ソリューション選択：**[!DNL Campaign]**／**[!UICONTROL コントロールパネル]**&#x200B;カード／**インスタンス設定**カード
+* [Experience Cloudホーム ](https://experience.adobe.com/#/home) /ソリューション選択：**[!DNL Campaign]** / **[!UICONTROL Campaign コントロールパネル]** カード / **インスタンス設定** カード
 または
 * URL（[https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)）で直接移動
 
