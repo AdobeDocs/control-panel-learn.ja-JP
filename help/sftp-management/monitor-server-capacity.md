@@ -35,4 +35,4 @@ ht-degree: 100%
 
 SFTP サーバーのストレージ容量を監視する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27270?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329488?learn=on&captions=jpn){transcript=true}

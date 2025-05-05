@@ -34,6 +34,6 @@ Adobe [!UICONTROL コントロールパネル]を使用すると、サブドメ�
 
 次のビデオでは、サブドメインをデリゲートする方法を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31390?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430239?learn=on&captions=jpn){transcript=true}
 
 サブドメインの SSL 証明書の更新について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=ja)を参照してください。

@@ -36,6 +36,6 @@ ht-degree: 93%
 
 コントロールパネルを使用して、Adobe Campaign インスタンスの許可リストに IP の範囲を追加する方法と、許可リストから IP の範囲を削除する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28726?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31650?learn=on&captions=jpn){transcript=true}
 
 IP 許可リストについて詳しくは、[詳細な製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=ja)を参照してください。

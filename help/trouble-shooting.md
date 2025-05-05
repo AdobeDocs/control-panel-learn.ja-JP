@@ -38,11 +38,11 @@ ht-degree: 100%
 
 ### 役立つビデオ
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35064?learn=on&captions=jpn){transcript=true}
 
 *IMS 組織 ID の確認（26 秒）*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35055?learn=on&captions=jpn){transcript=true}
 
 *製品プロファイル「Administrators」に管理者を追加して [!UICONTROL コントロールパネル]を使用できるようにする方法（1 分 3 秒）*
 

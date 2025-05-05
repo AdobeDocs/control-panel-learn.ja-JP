@@ -22,6 +22,6 @@ ht-degree: 100%
 
 ワークフローの一時的なストレージ使用状況を監視する方法、およびインスタンスでのデータベースやワークフローの問題を回避するためのワークフロー設定の場所について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/344309/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411088/?learn=on&captions=jpn){transcript=true}
 
 詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/workflow-monitoring.html?lang=ja)および[ワークフローのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=ja)を参照してください。

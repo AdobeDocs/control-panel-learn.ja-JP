@@ -23,4 +23,4 @@ ht-degree: 100%
 
 [!UICONTROL Campaign コントロールパネル]で、[!DNL GMAIL] アドレス宛てのメール送信に使用するすべてのサブドメインに、[!UICONTROL Google TXT] サイト検証レコードを追加する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/32369?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36799?learn=on&captions=jpn){transcript=true}

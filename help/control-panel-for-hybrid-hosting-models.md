@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Adobe Campaign ハイブリッドホスティングモデルのコントロールパネルを有効にする方法、コントロールパネルにアクセスする方法および主な機能のロックを解除する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/344502?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411076?learn=on&captions=jpn){transcript=true}
 
 詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html?lang=ja)を参照してください。

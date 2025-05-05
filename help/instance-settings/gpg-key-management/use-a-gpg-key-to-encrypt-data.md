@@ -23,8 +23,8 @@ ht-degree: 100%
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/36380?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41336?learn=on&captions=jpn){transcript=true}
 
 ## Adobe Campaign V7／V8
 
->[!VIDEO](https://video.tv.adobe.com/v/36399?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41329?learn=on&captions=jpn){transcript=true}

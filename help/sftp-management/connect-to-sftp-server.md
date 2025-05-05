@@ -38,4 +38,4 @@ SFTP サーバーに接続するには、以下が必要です。
 
 このビデオでは、コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27263?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35057?learn=on&captions=jpn){transcript=true}

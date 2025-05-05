@@ -23,4 +23,4 @@ Adobe Campaign でメールの送信やランディングページの公開を�
 
 コントロールパネルで CNAME を使用してサブドメインを設定し送信する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450125?learn=on&captions=jpn){transcript=true}

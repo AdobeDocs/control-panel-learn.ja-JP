@@ -24,4 +24,4 @@ ht-degree: 100%
 
 許可リストに IP アドレス範囲を追加する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/41775?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444636?learn=on&captions=jpn){transcript=true}

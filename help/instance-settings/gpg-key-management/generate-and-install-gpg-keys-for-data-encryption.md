@@ -21,4 +21,4 @@ ht-degree: 100%
 
 コントロールパネルでは、Adobe Campaign インスタンスから送信されるデータを暗号化できます。アウトバウンドデータを暗号化するために公開鍵と秘密鍵のペアを指定の [!DNL Campaign] インスタンスに生成しインストールする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36386?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327888?learn=on&captions=jpn){transcript=true}

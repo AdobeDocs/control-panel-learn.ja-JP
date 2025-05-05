@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!DNL Adobe Campaign] インスタンスから外部 URL への接続を確立する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28149?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34416?learn=on&captions=jpn){transcript=true}
 
 詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html?lang=ja)を参照してください。
