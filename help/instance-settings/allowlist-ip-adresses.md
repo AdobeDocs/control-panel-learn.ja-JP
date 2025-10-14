@@ -28,7 +28,7 @@ ht-degree: 93%
 
 コントロールパネルのサブドメイン管理にアクセスするには、以下に移動します。
 
-* [Experience Cloudホーム ](https://experience.adobe.com/#/home) /ソリューション選択：**[!DNL Campaign]** / **[!UICONTROL Campaign コントロールパネル]** カード / **インスタンス設定** カード
+* [Experience Cloudホーム &#x200B;](https://experience.adobe.com/#/home) /ソリューション選択：**[!DNL Campaign]** / **[!UICONTROL Campaign コントロールパネル]** カード / **インスタンス設定** カード
 または
 * URL（[https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)）で直接移動
 
