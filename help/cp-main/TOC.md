@@ -11,7 +11,7 @@ auto-video-transcripts: true
 source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -26,12 +26,12 @@ ht-degree: 100%
    + [許可リストの IP 範囲](/help/sftp-management/allowlist-ip-range.md)
    + [SSH キーの生成](/help/sftp-management/generate-ssh-key.md)
    + [SFTP サーバーへの接続](/help/sftp-management/connect-to-sftp-server.md)
-+ サブドメインと証明書 {#subdomains-and-certificates}
++ サブドメインおよび証明書 {#subdomains-and-certificates}
    + [完全なサブドメインデリゲーション](/help/subdomains-and-certificates/subdomain-delegation.md)
    + [CNAME を使用したサブドメインのデリゲート](/help/subdomains-and-certificates/delegate-subdomains-using-cname.md)
    + [SSL 証明書を追加](/help/subdomains-and-certificates/add-ssl-certificates.md)
    + [Google TXT レコード管理](/help/subdomains-and-certificates/google-txt-record-management.md)
-+ インスタンス設定{#instance-settings}
++ インスタンス設定 {#instance-settings}
    + [許可リストの IP アドレス](/help/instance-settings/allowlist-ip-adresses.md)
    + [URL 権限の追加](/help/instance-settings/add-url-permissions.md)
    + GPG キー管理 {#gpg-key-management}
