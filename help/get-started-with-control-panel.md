@@ -12,8 +12,8 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '193'
+workflow-type: ht
+source-wordcount: '228'
 ht-degree: 100%
 
 ---
@@ -48,14 +48,14 @@ ht-degree: 100%
 
 次のビデオでは、インスタンスの [!DNL IMS org ID] を検索できる場所について説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/35064?learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
 ### 管理者権限
 
 [!UICONTROL コントロールパネル]にアクセスするには、管理者権限が必要です。
 次のビデオでは、Campaign インスタンスに管理者を追加する方法を説明しています
 
->[!VIDEO](https://video.tv.adobe.com/v/35055?learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
 権限の管理について詳しくは、[詳細情報](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=ja#discover-control-panel)を参照してください。
 

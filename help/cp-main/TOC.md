@@ -9,9 +9,9 @@ role: Admin
 level: Experienced
 auto-video-transcripts: true
 source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 97%
    + [SSH キーの生成](/help/sftp-management/generate-ssh-key.md)
    + [SFTP サーバーへの接続](/help/sftp-management/connect-to-sftp-server.md)
 + サブドメインおよび証明書 {#subdomains-and-certificates}
-   + [完全なサブドメインデリゲーション](/help/subdomains-and-certificates/subdomain-delegation.md)
+   + [完全なサブドメインのデリゲーション](/help/subdomains-and-certificates/subdomain-delegation.md)
    + [CNAME を使用したサブドメインのデリゲート](/help/subdomains-and-certificates/delegate-subdomains-using-cname.md)
    + [SSL 証明書を追加](/help/subdomains-and-certificates/add-ssl-certificates.md)
    + [Google TXT レコード管理](/help/subdomains-and-certificates/google-txt-record-management.md)

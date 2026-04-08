@@ -10,8 +10,8 @@ role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '317'
+workflow-type: ht
+source-wordcount: '353'
 ht-degree: 100%
 
 ---
@@ -22,29 +22,30 @@ ht-degree: 100%
 
 ### 症状：Experience Cloud にログインできない
 
-**対処方法：**&#x200B;ユーザーは、自分の IMS 組織 ID（xxx）を見つける必要があります。管理者は、管理するインスタンスごとに、ユーザーを製品プロファイル「Campaign-xxx-Admins」に追加する必要があります。ユーザーがすべてのインスタンスの管理者であっても、自分自身をユーザーとして追加する必要があります。
+**対処方法：**&#x200B;ユーザーは、自分の IMS 組織 ID（xxx）を見つける必要があります。 管理者は、管理するインスタンスごとに、ユーザーを製品プロファイル「Campaign-xxx-Admins」に追加する必要があります。 ユーザーがすべてのインスタンスの管理者であっても、自分自身をユーザーとして追加する必要があります。
 
 ### 症状：Experience Cloud ホームで、[!UICONTROL コントロールパネル]にアクセスするためのリンクがユーザーに表示されない
 
 **原因：**&#x200B;製品プロファイル _Campaign-xxx-Administrators/Admin_ にユーザーとして追加されていないユーザーには、リンクは表示されません。
 
-**対処方法：**&#x200B;管理者が、管理する各インスタンスの製品プロファイル _Campaign-xxx-Admins_ にユーザーを追加する必要があります。ユーザーがすべてのインスタンスの管理者であっても、自分自身をユーザーとして追加する必要があります。
+**対処方法：**
+管理者が、管理する各インスタンスの製品プロファイル _Campaign-xxx-Admins_ にユーザーを追加する必要があります。 ユーザーがすべてのインスタンスの管理者であっても、自分自身をユーザーとして追加する必要があります。
 
 ### 症状：インスタンスが [!UICONTROL コントロールパネル]に表示されない
 
 **原因：**&#x200B;ほとんどの場合、表示されないインスタンスの製品プロファイル _Campaign-xxx-Administrators/Admin_ にユーザーを「*ユーザー*」として追加する必要があります。
 
-**対処方法：**&#x200B;管理者が、管理する各インスタンスの製品プロファイル _Campaign-xxx-Admins_ にユーザーを追加する必要があります。ユーザーがすべてのインスタンスの管理者であっても、自分自身を「ユーザー」として追加する必要があります。
+**対処方法：**&#x200B;管理者が、管理する各インスタンスの製品プロファイル _Campaign-xxx-Admins_ にユーザーを追加する必要があります。 ユーザーがすべてのインスタンスの管理者であっても、自分自身を「ユーザー」として追加する必要があります。
 
 ### 役立つビデオ
 
->[!VIDEO](https://video.tv.adobe.com/v/35064?learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
-*IMS 組織 ID の確認（26 秒）*
+*IMS Org ID の確認（00:26 分）*
 
->[!VIDEO](https://video.tv.adobe.com/v/35055?learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
-*製品プロファイル「Administrators」に管理者を追加して [!UICONTROL コントロールパネル]を使用できるようにする方法（1 分 3 秒）*
+*製品プロファイル管理者に管理者を追加して、[!UICONTROL コントロールパネル]を使用できるようにする方法（01:03 分）*
 
 ### 参考になるドキュメント
 

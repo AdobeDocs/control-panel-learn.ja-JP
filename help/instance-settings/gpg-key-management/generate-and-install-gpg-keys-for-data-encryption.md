@@ -11,14 +11,14 @@ role: Admin
 level: Experienced
 exl-id: 63c2c26b-93bc-4424-9d9f-0b3ca6d179f6
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '75'
+workflow-type: ht
+source-wordcount: '73'
 ht-degree: 100%
 
 ---
 
 # データ暗号化用の GPG キーの生成とインストール
 
-コントロールパネルでは、Adobe Campaign インスタンスから送信されるデータを暗号化できます。アウトバウンドデータを暗号化するために公開鍵と秘密鍵のペアを指定の [!DNL Campaign] インスタンスに生成しインストールする方法を説明します。
+コントロールパネルでは、Adobe Campaign インスタンスから送信されるデータを暗号化できます。 アウトバウンドデータを暗号化するために公開鍵と秘密鍵のペアを指定の [!DNL Campaign] インスタンスに生成しインストールする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/327888?learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36386?learn=on){transcript=true}
