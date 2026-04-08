@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Campaign インスタンスの配信スループットとトランザクションメッセージの待ち時間の監視方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/344310/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444738/?captions=jpn&learn=on){transcript=true}
 
 ## その他のリソース
 
