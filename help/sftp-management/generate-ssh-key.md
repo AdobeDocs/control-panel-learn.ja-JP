@@ -39,4 +39,4 @@ SSH キーを コントロールパネルに追加するには、SSH キーを�
 
 ターミナルを使って SSH キーを生成する方法と、公開バージョンのキーをコントロールパネルに保存する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27259?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35056?captions=jpn&learn=on){transcript=true}

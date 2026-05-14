@@ -45,7 +45,7 @@ SSL 証明書を購入するには、証明書署名要求（CSR）が必要で�
 
 次のビデオでは、コントロールパネルで証明書署名要求を生成する方法を説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/31317?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36100?captions=jpn&learn=on){transcript=true}
 
 *証明書署名リクエストの生成（02:36 分）*
 
@@ -72,7 +72,7 @@ SSL 証明書を取得したら、保護しようとしているサブドメイ�
 
 次のビデオでは、[!UICONTROL コントロールパネル]で SSL 証明書をインストールする方法を説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/31166?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36099?captions=jpn&learn=on){transcript=true}
 
 *SSL 証明書のインストール（01:25 分）*
 
