@@ -10,9 +10,12 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: ht
-source-wordcount: '288'
+TQID: https://experienceleague.adobe.com/0bt8fHWusGHKrXc-ireqA25Eo75SA2pCj9MhADcHBxA
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
+workflow-type: tm+mt
+source-wordcount: 288
 ht-degree: 100%
 
 ---
@@ -40,7 +43,7 @@ SSL 証明書を購入するには、証明書署名要求（CSR）が必要で�
 
 次のビデオでは、コントロールパネルで証明書署名要求を生成する方法を説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/36100?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31317?learn=on){transcript=true}
 
 *証明書署名リクエストの生成（02:36 分）*
 
@@ -67,7 +70,7 @@ SSL 証明書を取得したら、保護しようとしているサブドメイ�
 
 次のビデオでは、[!UICONTROL コントロールパネル]で SSL 証明書をインストールする方法を説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/36099?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31166?learn=on){transcript=true}
 
 *SSL 証明書のインストール（01:25 分）*
 

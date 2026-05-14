@@ -11,9 +11,12 @@ role: Admin
 level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: ht
-source-wordcount: '228'
+TQID: https://experienceleague.adobe.com/145PllmtzuWqb96oCDy4wW27SdVSWU8tV4pT3xXUO04
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
+workflow-type: tm+mt
+source-wordcount: 228
 ht-degree: 100%
 
 ---
@@ -21,7 +24,7 @@ ht-degree: 100%
 # [!UICONTROL コントロールパネル]の概要 {#control-panel}
 
 >[!CAUTION]
-> Campaign v7 の場合は、デプロイメントに制限があります。[詳細情報](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=ja#v7-restrictions)
+> Campaign v7 の場合は、デプロイメントに制限があります。 [詳細情報](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=ja#v7-restrictions)
 
 [!UICONTROL コントロールパネル]を使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の [!DNL SFTP] ストレージの管理や、[!DNL GPG] キーまたは[!UICONTROL サブドメイン]と[!UICONTROL 証明書]の管理などの管理タスクを実行したりできます。
 
@@ -48,14 +51,14 @@ ht-degree: 100%
 
 次のビデオでは、インスタンスの [!DNL IMS org ID] を検索できる場所について説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/35064?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
 ### 管理者権限
 
 [!UICONTROL コントロールパネル]にアクセスするには、管理者権限が必要です。
 次のビデオでは、Campaign インスタンスに管理者を追加する方法を説明しています
 
->[!VIDEO](https://video.tv.adobe.com/v/35055?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
 権限の管理について詳しくは、[詳細情報](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=ja#discover-control-panel)を参照してください。
 
