@@ -17,9 +17,9 @@ product_v2:
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: tm+mt
-source-wordcount: 229
-ht-degree: 93%
+workflow-type: ht
+source-wordcount: 259
+ht-degree: 100%
 
 ---
 
@@ -46,9 +46,7 @@ Adobe コントロールパネルを使用すると、Adobe Campaign 管理者�
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Adobe Campaignへのサブドメインのデリゲート（ビデオ） </strong>
-    </a>
-    </div>
+    <strong>Adobe Campaign へのサブドメインのデリゲート（ビデオ）</strong></div>
     <p>
     <em>サブドメインを Adobe Campaign に完全にデリゲートする方法を説明します。</em>
     <p>
@@ -59,9 +57,7 @@ Adobe コントロールパネルを使用すると、Adobe Campaign 管理者�
     </a>
     <div>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Google TXT レコード管理（ビデオ） </strong>
-    </a>
-    </div>
+    <strong>Google TXT レコード管理（ビデオ）</strong></div>
     <p>
     <em>Campaign コントロールパネルで、Gmail アドレス宛てのメール送信に使用するすべてのサブドメインに Google TXT サイト検証レコードを追加する方法を説明します。</em>
     <p>
@@ -72,11 +68,9 @@ Adobe コントロールパネルを使用すると、Adobe Campaign 管理者�
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>SFTP サーバーへの接続</strong>
-    </a>
-    </div>
+    <strong>SFTP サーバーへの接続</strong></div>
     <p>
-    <em>コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法について説明します。</em>
+    <em>コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。</em>
     <p>
   </td>
 </tr>

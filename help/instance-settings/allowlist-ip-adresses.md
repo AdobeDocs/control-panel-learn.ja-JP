@@ -16,9 +16,9 @@ product_v2:
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 189
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 94%
 
 コントロールパネルのサブドメイン管理にアクセスするには、以下に移動します。
 
-* [Experience Cloud ホーム &#x200B;](https://experience.adobe.com/#/home) > ソリューション ピッカー：**[!DNL Campaign]** > **[!UICONTROL Campaign コントロールパネル]** カード > **インスタンス設定** カード
+* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／ソリューション選択：**[!DNL Campaign]**／**[!UICONTROL コントロールパネル]**&#x200B;カード／**インスタンス設定**カード
 または
 * URL（[https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)）で直接移動
 
