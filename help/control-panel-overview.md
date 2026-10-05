@@ -11,18 +11,24 @@ role: Admin
 level: Experienced
 recommendations: noDisplay, noCatalog
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-TQID: https://experienceleague.adobe.com/5DzK8amd3azK1kPO4--F8ltID-RzAWyUtGtpxvKK-Yg
+TQID: 'https://experienceleague.adobe.com/5DzK8amd3azK1kPO4--F8ltID-RzAWyUtGtpxvKK-Yg'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
+    internal-label: Control Panel
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: ht
-source-wordcount: 259
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: e4a8e51ee4016895090eb90d528d0a2707fd0225
+workflow-type: tm+mt
+source-wordcount: '259'
 ht-degree: 100%
-
 ---
-
 # コントロールパネルのチュートリアル
 
 Adobe コントロールパネルを使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位での SFTP ストレージの管理、GPG キーの管理、サブドメインと証明書の管理などの各種管理タスクを実行したりできます。
@@ -46,7 +52,9 @@ Adobe コントロールパネルを使用すると、Adobe Campaign 管理者�
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Adobe Campaign へのサブドメインのデリゲート（ビデオ）</strong></div>
+    <strong>Adobe Campaign へのサブドメインのデリゲート（ビデオ）</strong>
+    </a>
+    </div>
     <p>
     <em>サブドメインを Adobe Campaign に完全にデリゲートする方法を説明します。</em>
     <p>
@@ -57,7 +65,9 @@ Adobe コントロールパネルを使用すると、Adobe Campaign 管理者�
     </a>
     <div>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Google TXT レコード管理（ビデオ）</strong></div>
+    <strong>Google TXT レコード管理（ビデオ）</strong>
+    </a>
+    </div>
     <p>
     <em>Campaign コントロールパネルで、Gmail アドレス宛てのメール送信に使用するすべてのサブドメインに Google TXT サイト検証レコードを追加する方法を説明します。</em>
     <p>
@@ -68,7 +78,9 @@ Adobe コントロールパネルを使用すると、Adobe Campaign 管理者�
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>SFTP サーバーへの接続</strong></div>
+    <strong>SFTP サーバーへの接続</strong>
+    </a>
+    </div>
     <p>
     <em>コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。</em>
     <p>
