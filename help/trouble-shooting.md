@@ -9,18 +9,24 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
-TQID: https://experienceleague.adobe.com/EDjVds-2tuOo0ZwbJOBzM7marwmcIeIYuqGnMFjisv0
+TQID: 'https://experienceleague.adobe.com/EDjVds-2tuOo0ZwbJOBzM7marwmcIeIYuqGnMFjisv0'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
+    internal-label: Control Panel
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: ht
-source-wordcount: 353
-ht-degree: 100%
-
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: e4a8e51ee4016895090eb90d528d0a2707fd0225
+workflow-type: tm+mt
+source-wordcount: '355'
+ht-degree: 92%
 ---
-
 # [!UICONTROL コントロールパネル]のトラブルシューティング
 
 ## ログインとホームページ
@@ -28,7 +34,7 @@ ht-degree: 100%
 ### 症状：Experience Cloud にログインできない
 
 **対処方法：**
-ユーザーは、自分の IMS 組織 ID（xxx）を見つける必要があります。管理者は、管理するインスタンスごとに、ユーザーを製品プロファイル「Campaign-xxx-Admins」に追加する必要があります。 ユーザーがすべてのインスタンスの管理者であっても、自分自身をユーザーとして追加する必要があります。
+ユーザーは、自分の IMS 組織 ID（xxx）を見つける必要があります。 管理者は、管理するインスタンスごとに、ユーザーを製品プロファイル「Campaign-xxx-Admins」に追加する必要があります。 ユーザーがすべてのインスタンスの管理者であっても、自分自身をユーザーとして追加する必要があります。
 
 ### 症状：Experience Cloud ホームで、[!UICONTROL コントロールパネル]にアクセスするためのリンクがユーザーに表示されない
 
@@ -36,7 +42,7 @@ ht-degree: 100%
 製品プロファイル _Campaign-xxx-Administrators/Admin_ にユーザーとして追加されていないユーザーには、リンクは表示されません。
 
 **対処方法：**
-管理者が、管理する各インスタンスの製品プロファイル _Campaign-xxx-Admins_ にユーザーを追加する必要があります。ユーザーがすべてのインスタンスの管理者であっても、自分自身をユーザーとして追加する必要があります。
+管理者が、管理する各インスタンスの製品プロファイル _Campaign-xxx-Admins_ にユーザーを追加する必要があります。 ユーザーがすべてのインスタンスの管理者であっても、自分自身をユーザーとして追加する必要があります。
 
 ### 症状：インスタンスが [!UICONTROL コントロールパネル]に表示されない
 
@@ -44,17 +50,17 @@ ht-degree: 100%
 ほとんどの場合、表示されないインスタンスの製品プロファイル _Campaign-xxx-Administrators/Admin_ にユーザーを「*ユーザー*」として追加する必要があります。
 
 **対処方法：**
-管理者が、管理する各インスタンスの製品プロファイル _Campaign-xxx-Admins_ にユーザーを追加する必要があります。ユーザーがすべてのインスタンスの管理者であっても、自分自身を「ユーザー」として追加する必要があります。
+管理者が、管理する各インスタンスの製品プロファイル _Campaign-xxx-Admins_ にユーザーを追加する必要があります。 ユーザーがすべてのインスタンスの管理者であっても、自分自身を「ユーザー」として追加する必要があります。
 
 ### 役立つビデオ
 
 >[!VIDEO](https://video.tv.adobe.com/v/35064?captions=jpn&learn=on){transcript=true}
 
-*IMS 組織 ID の確認（00:26 分）*
+*IMS組織IDを確認（00:26分）*
 
 >[!VIDEO](https://video.tv.adobe.com/v/35055?captions=jpn&learn=on){transcript=true}
 
-*製品プロファイル管理者に管理者を追加して、[!UICONTROL コントロールパネル]を使用できるようにする方法（01:03 分）*
+*製品プロファイル管理者に管理者を追加して、[!UICONTROL &#x200B; コントロールパネル &#x200B;] （01:03分）*&#x200B;を使用できるようにする方法
 
 ### 参考になるドキュメント
 
